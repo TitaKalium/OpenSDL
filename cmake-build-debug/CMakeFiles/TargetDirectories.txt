@@ -1,0 +1,3 @@
+C:/Users/thrib/Code/IMGOINGFUCKINGINSANE/cmake-build-debug/CMakeFiles/IMGOINGFUCKINGINSANE.dir
+C:/Users/thrib/Code/IMGOINGFUCKINGINSANE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thrib/Code/IMGOINGFUCKINGINSANE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
